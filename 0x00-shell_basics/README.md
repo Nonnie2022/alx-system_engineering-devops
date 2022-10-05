@@ -1,1 +1,1 @@
-Script to display the absolute pathname of my current working directory
+Writing a script to print the absolute path name of the current working directory
