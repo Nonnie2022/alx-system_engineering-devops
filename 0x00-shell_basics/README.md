@@ -1,1 +1,1 @@
-script that deletes all files in the current working directory thatend with the character ~
+script to create three directories using two spaces only
