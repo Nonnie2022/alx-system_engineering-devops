@@ -1,1 +1,1 @@
-script to create three directories using two spaces only
+script to list all the files and directories of the current directory, separared by commas
