@@ -1,1 +1,1 @@
-a script to mirror permission
+Script to change diretory mode
