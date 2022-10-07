@@ -1,1 +1,1 @@
- A script to grant only other users all the permissions
+ Script to change the mode of a file
