@@ -13,3 +13,4 @@ No more javascript
  Script that cpounts the number of directories and sub-directories in the current directory
 Script to display the 10 newest files in the current directory
 script that takes a list of words as input and prints only words that appear exactly once
+script that Display lines containing the pattern “root” from the file /etc/passwd
