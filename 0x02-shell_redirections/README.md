@@ -7,3 +7,4 @@ Display the first 10 lines of /etc/passwd
 Script to display the third line of a file
 A script that creates a file with a text
 a script that writes into the file ls_cwd_content the result of the command ls -la
+Write a script to duplicate the last line of the file iacta
