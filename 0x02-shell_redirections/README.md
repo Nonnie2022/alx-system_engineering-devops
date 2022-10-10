@@ -11,3 +11,4 @@ Write a script to duplicate the last line of the file iacta
 Duplicate the last line of a file
 No more javascript
  Script that cpounts the number of directories and sub-directories in the current directory
+Script to display the 10 newest files in the current directory
