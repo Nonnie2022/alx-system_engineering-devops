@@ -14,3 +14,4 @@ No more javascript
 Script to display the 10 newest files in the current directory
 script that takes a list of words as input and prints only words that appear exactly once
 script that Display lines containing the pattern “root” from the file /etc/passwd
+script to Display the number of lines that contain the pattern “bin” in the file /etc/passwd
