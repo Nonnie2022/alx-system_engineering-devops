@@ -10,3 +10,4 @@ a script that writes into the file ls_cwd_content the result of the command ls -
 Write a script to duplicate the last line of the file iacta
 Duplicate the last line of a file
 No more javascript
+ Script that cpounts the number of directories and sub-directories in the current directory
